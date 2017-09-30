@@ -1,0 +1,23 @@
+{
+  "name": "ml_intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aponty/ml_intro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aponty/ml_intro/issues"
+  },
+  "homepage": "https://github.com/aponty/ml_intro#readme",
+  "dependencies": {
+    "csvtojson": "^1.1.7",
+    "ml-regression": "^4.4.2"
+  }
+}
